@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://vercel.app" width="100%"/>
-</div>
-
+![BruceWayneTech Banner](https://vercel.app)
 # Hi, I'm Bruce Wayne Tech 👋
 
 ### ☕ Java Developer & Splitwise 2.0 Architect
