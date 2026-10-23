@@ -1,4 +1,4 @@
-![BruceWayneTech Banner](https://vercel.app)
+![BruceWayneTech Profile Banner](./banner.png)
 # Hi, I'm Bruce Wayne Tech 👋
 
 ### ☕ Java Developer & Splitwise 2.0 Architect
